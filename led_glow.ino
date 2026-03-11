@@ -1,6 +1,6 @@
 //this is my first iot program
 
-#define my led 7 
+#define my_led 7 
 // global declaration, LED pin no.7
 
 void setup() {
